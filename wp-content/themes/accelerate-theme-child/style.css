@@ -1,14 +1,4 @@
 
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
 /*
 Theme Name:   Accelerate Theme Child
 Theme URI:    http://example.com/accelerate-theme-child/
@@ -32,4 +22,24 @@ Text Domain:  accelerate-theme-child
 }
 #masthead {
     background: none repeat scroll 0 0 #45ac9d;
+}
+.blog-post {
+    width: 50%;
+    float: left;
+    margin-bottom: 2em;
+}
+.blog-post h4 {
+    font: 700 1em/1.75 'Montserrat', 'Open Sans', Arial, sans-serif;
+    color: #a6a6a6;
+    text-transform: uppercase;
+    margin: 2em 0 .5em;
+}
+.blog-post h3 {
+    font-size: 1.5em;
+}
+.read-more-link {
+    font-family: 'Montserrat';
+	font-weight: 700;
+	color: #45ac9d;
+	text-transform: uppercase;
 }
