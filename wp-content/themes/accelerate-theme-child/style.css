@@ -66,3 +66,14 @@ div.case-study-images img{
     max-height: 275px;
     max-width: 275px;
 }
+#light {
+    color: darkgray;
+    font-size: .8em;
+}
+#aqua {
+    color: #45ac9d;
+}
+div.case-study-images img {
+	width: 100%;
+	height: auto;
+}
