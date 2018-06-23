@@ -58,11 +58,11 @@ div.case-study-images img{
  margin-bottom: 50px;
 
 }
-.light {
-    font-size: 0.75em;
-    font-weight: 400;
-    margin: 0;
+.featured-stuff {
+    margin-left: 45%;
 }
-.regular {
-    font-weight: 400;
+.featured-work img {
+    display: block;
+    max-height: 275px;
+    max-width: 275px;
 }
