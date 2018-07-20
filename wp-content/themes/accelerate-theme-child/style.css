@@ -77,3 +77,7 @@ div.case-study-images img {
 	width: 100%;
 	height: auto;
 }
+/* Contact Form */
+.main-content.melissa button {
+    background-color: #45ac9d;
+}
