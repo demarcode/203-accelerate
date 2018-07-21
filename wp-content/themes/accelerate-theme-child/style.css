@@ -81,3 +81,14 @@ div.case-study-images img {
 .main-content.melissa button {
     background-color: #45ac9d;
 }
+
+
+/* About */
+h3 .business {
+    margin-left: 7em;
+    margin-right: 7em;
+}
+.about {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
